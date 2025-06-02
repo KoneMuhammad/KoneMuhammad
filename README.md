@@ -5,7 +5,17 @@
 
 ###
 
-<h2 align="left">Muhammad from NYC ...</h2>
+<h2 align="left">Muhammad from NYC ...Using AI + chemistry to turn plastic waste into useful stuff — like sugars, fuels, or even plants.
+
+🧪 ML finds enzymes & catalysts to break down plastic
+
+🦠 Engineer microbes to eat plastic & make biomass
+
+🔬 Simulate reactions to speed up discovery
+
+Goal: Kill plastic pollution with smart, fast science.
+
+</h2>
 
 ###
 

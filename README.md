@@ -1,21 +1,8 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgrammingPrograms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgrammingPrograms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">👋 I’m Muhammad, I architect apps like IKEA does furniture — you won’t need an Allen key, but you’ll wish your whole stack looked this clean.</h2>
 
 ###
 
-<h2 align="left">Muhammad from NYC ...Using AI + chemistry to turn plastic waste into useful stuff — like sugars, fuels, or even plants.
-
-🧪 ML finds enzymes & catalysts to break down plastic
-
-🦠 Engineer microbes to eat plastic & make biomass
-
-🔬 Simulate reactions to speed up discovery
-
-Goal: Kill plastic pollution with smart, fast science.
-
-</h2>
+<p align="center">Currently Working on...    <br>1stDopamine <br>&<br>  KoneWay</p>
 
 ###
 
@@ -29,12 +16,8 @@ Goal: Kill plastic pollution with smart, fast science.
 
 ###
 
-<p align="center">grow</p>
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ProgrammingPrograms/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=konemuhammad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###

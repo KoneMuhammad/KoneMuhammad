@@ -1,4 +1,4 @@
-<h2 align="left">👋 I’m Muhammad, I architect apps like IKEA does furniture — you won’t need an Allen key, but you’ll wish your whole stack looked this clean.</h2>
+<h2 align="left">👋 I’m Muhammad, I  build apps like IKEA furniture — everybody want it, nobody know how I do it.</h2>
 
 ###
 

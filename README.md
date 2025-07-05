@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad 👋🏾 💻
 
-Self-driven engineer building full-stack solutions with Kotlin, Jetpack Compose, and SQL—eager to learn, contribute, and grow 
+software engineer, passionate about making useful Solutions for people of the earth, and building community. Some technologies Im working with include Jetpack Compose, Kotlin (Retrofit + Ktor) and SQL. building tools that help people, and inviting feedback from those with more experience.
 
 ## Find me online 🌎: <a>
 

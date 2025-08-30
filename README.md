@@ -2,6 +2,4 @@
 
 Rocking with Open Source
 
-## Find me online 🌎: <a>
-
- <a href="https://www.linkedin.com/in/muhammad-kone/">LinkedIn</a> 💼
+## Platics Degradable? no more landfills?

@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad 👋🏾 💻
 
-software engineer, Exploring Interest
+Rocking with Open Source
 
 ## Find me online 🌎: <a>
 

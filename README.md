@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad 👋🏾 💻
 
-software engineer, Android -> exploring Interest
+software engineer, Exploring Interest
 
 ## Find me online 🌎: <a>
 

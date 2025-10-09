@@ -2,5 +2,4 @@
 
 Android Developer 
 ---
--lets build something to make a remark about
-
+-for my KMP people looking to use kotlin for backend and native for front end

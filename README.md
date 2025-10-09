@@ -1,3 +1,4 @@
-# Hi, I'm Muhammad 👋🏾 💻
+# its me, Muhammad Kone 👋🏾 💻
 
-Rocking with Open Source
+Android Developer 
+Nyc Native 

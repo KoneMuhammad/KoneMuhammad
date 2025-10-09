@@ -1,4 +1,5 @@
-# its me, Muhammad Kone 👋🏾 💻
+# its me, Muhammad Kone 
 
 Android Developer 
-Nyc Native 
+---
+using KMP building something that people will make a remark about (hopefully)

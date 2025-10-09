@@ -2,4 +2,5 @@
 
 Android Developer 
 ---
-using KMP to build something that people will make a remark about (hopefully)
+using KMP helping teams integrate this amazing new framework. 
+

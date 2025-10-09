@@ -2,6 +2,5 @@
 
 Android Developer 
 ---
-building with KMP 
-
+-lets build something to make a remark about
 

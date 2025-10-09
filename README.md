@@ -2,5 +2,6 @@
 
 Android Developer 
 ---
-using KMP helping teams integrate this amazing new framework. 
+building with KMP 
+
 

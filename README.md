@@ -2,4 +2,4 @@
 
 Android Developer 
 ---
-using KMP building something that people will make a remark about (hopefully)
+using KMP to build something that people will make a remark about (hopefully)

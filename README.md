@@ -1,5 +1,5 @@
-# its me, Muhammad Kone 
+# changing peoples lives  
 
-Android Developer 
+KMP developer
+muhammad Kone is the name. im delighted that you stumbled upon my github 
 ---
--for my KMP people reusing kotlin code and using native code if needed

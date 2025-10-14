@@ -1,4 +1,4 @@
-# changing peoples lives  
+# helping people become the person they seek to become through software
 
 KMP developer
 ---

@@ -1,4 +1,4 @@
-# helping people become the person they seek to become through software
+# telling stories through software
 
 KMP developer
 ---

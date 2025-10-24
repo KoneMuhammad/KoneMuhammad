@@ -1,6 +1,6 @@
 # telling stories through software
 
-KMP developer
+software engineer
 ---
 muhammad Kone is the name. im delighted that you stumbled upon this github 
 

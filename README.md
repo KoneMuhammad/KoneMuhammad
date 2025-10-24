@@ -1,6 +1,3 @@
-# telling stories through software
-
-software engineer
+# software engineer, Muhammad Kone
 ---
-muhammad Kone is the name. im delighted that you stumbled upon this github 
-
+glad you came to this github. using Kotlin to make cool projects, looking foward to connect 

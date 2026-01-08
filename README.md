@@ -1,2 +1,3 @@
-# 💻 Software engineer, Muhammad Kone
+# 💻 Software engineer
 ---   
+building software that hit painpooints 
